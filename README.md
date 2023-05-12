@@ -4,7 +4,7 @@
 
 # Smart School Management System
 
-## Link: http://smartyschool.herokuapp.com/  
+## Link: https://herokingbot.github.io/smartschooltest/
 
 ### Email: ammar@gmail.com 
 ### Password: 12345
